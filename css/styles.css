@@ -264,7 +264,7 @@ nav {
 }
 .hero-bg {
   position: relative;
-  background-image: url("../SPE-Logos/AdobeStock_316422366.jpeg"); /* pet expo image */
+  background-image: url("../img/AdobeStock_316422366.jpeg"); /* pet expo image */
   background-size: cover;
   background-position: center;
   color: #ffffff;
